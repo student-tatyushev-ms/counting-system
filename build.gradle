@@ -8,5 +8,6 @@ repositories {
 }
 
 dependencies {
+    compile 'com.h2database:h2:1.4.193'
     testCompile 'junit:junit:4.11'
 }
